@@ -1,0 +1,11 @@
+{
+  "name": "Jungkook",
+  "age": 28,
+  "gender": "male",
+  "height_cm": 177,
+  "weight_kg": 71,
+  "goal": "maintenance",
+  "activity_level": "medium",
+  "diet_type": "non-veg",
+  "restrictions": ["no sugar"]
+}

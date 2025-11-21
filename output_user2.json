@@ -1,0 +1,323 @@
+
+=== FINAL DELIVERABLE (JSON) ===
+
+{
+  "user": {
+    "id": null,
+    "name": "Jungkook",
+    "goal": "maintenance",
+    "fitness_level": null
+  },
+  "calorie_plan": {
+    "bmr": 1681,
+    "maintenance": 2606,
+    "target": 2606,
+    "macros": {
+      "calories": 2606,
+      "protein_g": 114,
+      "fat_g": 72,
+      "carbs_g": 375
+    }
+  },
+  "workout_plan": {
+    "week": [
+      {
+        "day": 1,
+        "type": "strength",
+        "duration_min": 30,
+        "exercises": [
+          "Bodyweight Squats",
+          "Incline Push-ups (knees)",
+          "Bent-over Dumbbell Rows (light)"
+        ]
+      },
+      {
+        "day": 2,
+        "type": "cardio",
+        "duration_min": 30,
+        "exercises": [
+          "Jumping Jacks",
+          "High Knees",
+          "March in Place"
+        ]
+      },
+      {
+        "day": 3,
+        "type": "core",
+        "duration_min": 30,
+        "exercises": [
+          "Plank 30s",
+          "Bicycle Crunches",
+          "Leg Raises"
+        ]
+      },
+      {
+        "day": 4,
+        "type": "cardio",
+        "duration_min": 30,
+        "exercises": [
+          "Jumping Jacks",
+          "High Knees",
+          "March in Place"
+        ]
+      },
+      {
+        "day": 5,
+        "type": "strength",
+        "duration_min": 30,
+        "exercises": [
+          "Bodyweight Squats",
+          "Incline Push-ups (knees)",
+          "Bent-over Dumbbell Rows (light)"
+        ]
+      },
+      {
+        "day": 6,
+        "type": "mobility",
+        "duration_min": 30,
+        "exercises": [
+          "Dynamic Stretching - 10 min"
+        ]
+      },
+      {
+        "day": 7,
+        "type": "strength",
+        "duration_min": 30,
+        "exercises": [
+          "Bodyweight Squats",
+          "Incline Push-ups (knees)",
+          "Bent-over Dumbbell Rows (light)"
+        ]
+      }
+    ],
+    "summary": "beginner maintenance plan, 30 min/day"
+  },
+  "meal_plan": {
+    "days": [
+      {
+        "day": 1,
+        "meals": [
+          {
+            "day": 1,
+            "meal": "breakfast",
+            "recipe": "Oatmeal with milk & nuts",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 1,
+            "meal": "lunch",
+            "recipe": "Chicken salad",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 1,
+            "meal": "dinner",
+            "recipe": "Grilled salmon & veg",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "meals": [
+          {
+            "day": 2,
+            "meal": "breakfast",
+            "recipe": "Chicken salad",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 2,
+            "meal": "lunch",
+            "recipe": "Grilled salmon & veg",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 2,
+            "meal": "dinner",
+            "recipe": "Beef stir-fry",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "meals": [
+          {
+            "day": 3,
+            "meal": "breakfast",
+            "recipe": "Grilled salmon & veg",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 3,
+            "meal": "lunch",
+            "recipe": "Beef stir-fry",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 3,
+            "meal": "dinner",
+            "recipe": "Yogurt & fruit",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "meals": [
+          {
+            "day": 4,
+            "meal": "breakfast",
+            "recipe": "Beef stir-fry",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 4,
+            "meal": "lunch",
+            "recipe": "Yogurt & fruit",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 4,
+            "meal": "dinner",
+            "recipe": "Oatmeal with milk & nuts",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "meals": [
+          {
+            "day": 5,
+            "meal": "breakfast",
+            "recipe": "Yogurt & fruit",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 5,
+            "meal": "lunch",
+            "recipe": "Oatmeal with milk & nuts",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 5,
+            "meal": "dinner",
+            "recipe": "Chicken salad",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "meals": [
+          {
+            "day": 6,
+            "meal": "breakfast",
+            "recipe": "Oatmeal with milk & nuts",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 6,
+            "meal": "lunch",
+            "recipe": "Chicken salad",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 6,
+            "meal": "dinner",
+            "recipe": "Grilled salmon & veg",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          }
+        ]
+      },
+      {
+        "day": 7,
+        "meals": [
+          {
+            "day": 7,
+            "meal": "breakfast",
+            "recipe": "Chicken salad",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 7,
+            "meal": "lunch",
+            "recipe": "Grilled salmon & veg",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          {
+            "day": 7,
+            "meal": "dinner",
+            "recipe": "Beef stir-fry",
+            "calories": 100,
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "user1994",
+  "name": "Namjoon",
+  "age": 31,
+  "sex": "male",
+  "weight_kg": 66,
+  "height_cm": 180,
+  "activity_level": "moderate",
+  "goal": "lose",
+  "dietary_perferences": ["no_pork", "vegetarian_friendly"],
+  "fitness_level": "beginner",
+  "minutes_per_day": 30,
+  "available_equiment": ["bodyweight", "dumbbell"]
+}
+
+  

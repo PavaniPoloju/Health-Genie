@@ -1,0 +1,7 @@
+python-dotenv==0.21.0
+uvicorn==0.21.1
+fastapi==0.95.2
+requests==2.31.0
+beautifulsoup4==4.12.2
+numpy==1.24.4
+pandas==2.1.2
