@@ -65,7 +65,6 @@ Delivered in **structured JSON**, easy for web apps, dashboards, or mobile apps.
 
 **4. Demo Output** 
 Here is the final JSON generated for:
-<<<<<<< HEAD
 1. **Name:** Jungkook
 2. **Goal:** Maintenance
 3. **Diet:** Non-veg, no sugar
@@ -82,7 +81,6 @@ Each module independently performs a specific function.
 3. **No external APIs required**
 The system works offline, using pure logic.
 4. **JSON-based input/output**
-=======
 **Name:** Jungkook
 **Goal:** Maintenance
 **Diet:** Non-veg, no sugar
@@ -99,7 +97,6 @@ Each module independently performs a specific function.
 ->**No external APIs required**
 The system works offline, using pure logic.
 ->**JSON-based input/output**
->>>>>>> 2731f375288fffeac6d788b3450a428f694bfbbe
 For compatibility with:
 - Kaggle Notebooks
 - GitHub projects
@@ -117,16 +114,16 @@ Parses the user JSON input and extracts:
 
 2️.Calorie Agent
 Uses:
-->Mifflin-St Jeor BMR Formula
-->Activity multiplier
-->Goal adjustment
+1. Mifflin-St Jeor BMR Formula
+2. Activity multiplier
+3. Goal adjustment
 Example (your output):
-->BMR: 1681
-->Maintenance: 2606
-->Macros:
--->Protein: 114 g
--->Fat: 72 g
--->Carbs: 375 g
+1. BMR: 1681
+2. Maintenance: 2606
+3. Macros:
+    1.Protein: 114 g
+    2.Fat: 72 g
+   Carbs: 375 g
 
 3️.Workout Agent
 Creates a 7-day plan with:
@@ -167,14 +164,14 @@ This proves the **multi-agent pipeline** works end-to-end.
 **8. Conclusion**
 HealthGenie successfully demonstrates:
 
--A complete multi-agent system
--Personalized AI-generated fitness & nutrition plans
--Clean JSON output
--Fully offline capability
--Modular, expandable architecture
+1. A complete multi-agent system
+2. Personalized AI-generated fitness & nutrition plans
+3. Clean JSON output
+4. Fully offline capability
+5. Modular, expandable architecture
 
 This project is ideal for:
-->Kaggle AI/ML competitions
-->University capstone submissions
-->GitHub portfolio
-->AI engineering practice
+1. Kaggle AI/ML competitions
+2. University capstone submissions
+3. GitHub portfolio
+4. AI engineering practice
