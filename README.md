@@ -171,7 +171,7 @@ HealthGenie successfully demonstrates:
 5. Modular, expandable architecture
 
 This project is ideal for:
-Kaggle AI/ML competitions
-->University capstone submissions
-->GitHub portfolio
-->AI engineering practice
+1. Kaggle AI/ML competitions
+2. University capstone submissions
+3. GitHub portfolio
+4. AI engineering practice
