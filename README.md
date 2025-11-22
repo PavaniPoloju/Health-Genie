@@ -3,11 +3,11 @@
 **A Multi-Agent Architecture for Automated Fitness & Nutrition Planning**
 **1. Problem Statement**
 In today’s world, people want personalized fitness plans but often struggle with:
-- Not knowing how many calories they should consume
-- Not knowing what workouts fit their level
-- Not knowing what meals match their preferences
-- Getting overwhelmed by information
-- Wanting simple, daily recommendations without manual effort
+1. Not knowing how many calories they should consume
+2. Not knowing what workouts fit their level
+3. Not knowing what meals match their preferences
+4. Getting overwhelmed by information
+5. Wanting simple, daily recommendations without manual effort
 
 Traditional fitness apps offer static, one-size-fits-all plans. They rarely adapt to a person’s:
 - Height, weight, age
