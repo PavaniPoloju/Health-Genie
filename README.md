@@ -1,5 +1,5 @@
 # HealthGenie — AI Fitness & Meal Coach (Local Demo)
-
+![Welcome Image](assets/Capstone_Image.png)
 **A Multi-Agent Architecture for Automated Fitness & Nutrition Planning**
 **1. Problem Statement**
 In today’s world, people want personalized fitness plans but often struggle with:
