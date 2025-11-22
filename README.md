@@ -65,6 +65,7 @@ Delivered in **structured JSON**, easy for web apps, dashboards, or mobile apps.
 
 **4. Demo Output** 
 Here is the final JSON generated for:
+<<<<<<< HEAD
 1. **Name:** Jungkook
 2. **Goal:** Maintenance
 3. **Diet:** Non-veg, no sugar
@@ -81,6 +82,24 @@ Each module independently performs a specific function.
 3. **No external APIs required**
 The system works offline, using pure logic.
 4. **JSON-based input/output**
+=======
+**Name:** Jungkook
+**Goal:** Maintenance
+**Diet:** Non-veg, no sugar
+**Height:** 177 cm
+**Weight:** 71 kg
+**Age:** 28
+**Activity Level:** Medium
+
+**5. The Build – Tools & Technologies Used**
+->**Python 3.9**
+Core programming language.
+->**Multi-Agent Architecture**
+Each module independently performs a specific function.
+->**No external APIs required**
+The system works offline, using pure logic.
+->**JSON-based input/output**
+>>>>>>> 2731f375288fffeac6d788b3450a428f694bfbbe
 For compatibility with:
 - Kaggle Notebooks
 - GitHub projects
