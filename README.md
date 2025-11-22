@@ -89,20 +89,6 @@ The system works offline, using pure logic.
 **Age:** 28
 **Activity Level:** Medium
 
-**5. The Build – Tools & Technologies Used**
-->**Python 3.9**
-Core programming language.
-->**Multi-Agent Architecture**
-Each module independently performs a specific function.
-->**No external APIs required**
-The system works offline, using pure logic.
-->**JSON-based input/output**
-For compatibility with:
-- Kaggle Notebooks
-- GitHub projects
-- Web dashboards
-- REST APIs
-
 **How Everything Works Internally**
 1️.User Profile Agent
 Parses the user JSON input and extracts:
@@ -141,6 +127,7 @@ Creates 7 days × 3 meals:
 -Yogurt + fruit
 -Beef stir-fry
 **Calories currently**: 100 per meal (placeholder values).
+[!Sample_Output](assets/Image2.jpg) 
 
 5️.Coach Agent
 Merges everything into one **final JSON**.
