@@ -16,10 +16,10 @@ Traditional fitness apps offer static, one-size-fits-all plans. They rarely adap
 - Restrictions (ex: no sugar)
 - Fitness goal (lose/gain/maintain)
 So creating a **fully automated, dynamic, AI-driven system** that generates:
-->Personalized calorie breakdown
-->7-day workout plan
-->7-day meal plan
-->Final structured output (JSON)
+1. Personalized calorie breakdown
+2. 7-day workout plan
+3. 7-day meal plan
+4. Final structured output (JSON)
 
 **2. Why Agents?**
 Why use multiple agents instead of one big model?
@@ -33,9 +33,9 @@ Because this problem has different expert domains:
 
 A single agent would mix all logic and become messy.
 Instead, we design modular agents:
-->Each agent does one job well.
-->Each agent can be improved or replaced independently.
-->They communicate like a team.
+1. Each agent does one job well.
+2. Each agent can be improved or replaced independently.
+3. They communicate like a team.
 This is the core idea of a multi-agent architecture.
 
 **3. What I Created — System Architecture**
